@@ -10,8 +10,7 @@ The experiments are developed while studying topics from textbooks, courses, pap
 quantum-computing-experiments/
 ├── README.md
 ├── linear-algebra/
-├── quantum-mechanics/
-├── quantum-computing/
+├── quantum-fundamentals/
 ├── quantum-algorithms/
 └── quantum-cryptanalysis/
 ```
@@ -37,10 +36,10 @@ The experiments may be based on concepts from:
 
 * *Quantum Computing: From Linear Algebra to Physical Realizations* — Mikio Nakahara and Tetsuo Ohmi
 
-The source of the relevant concept is identified within each experiment.
+* *Utility-scale quantum computing* - IBM Quantum Platform
+
+And all over the internet.
 
 ## Direction
 
-The repository will gradually progress from mathematical foundations toward:
-
-**Linear Algebra → Quantum Mechanics → Quantum Computing → Quantum Algorithms → Quantum Cryptanalysis**
+In this repository, we will implement the mathematical concepts we understand in linear algebra and quantum computing, and then implement and apply quantum algorithms.
